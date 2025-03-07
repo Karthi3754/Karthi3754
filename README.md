@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthi3754" alt="karthi3754" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Delivery with Real-time Location Integration**
+- 🔭 I’m currently working on **Smart Delivery with Real-time Location Integration Project**
 
 - 🌱 I’m currently learning **Full Stack Development and Blockchain Development**
 
