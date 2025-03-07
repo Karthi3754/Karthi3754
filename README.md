@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthick S</h1>
-<h3 align="center">Where logic meets creativity—building software with purpose and Coding my way through challenges and into the future.🖥️🚀</h3>
+<h3 align="center">Where logic meets creativity—crafting purposeful software and coding my way through challenges toward a future of innovation. 🖥️🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi3754&label=Profile%20views&color=0e75b6&style=flat" alt="karthi3754" /> </p>
 
