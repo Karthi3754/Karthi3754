@@ -13,28 +13,27 @@
 
 ## 🔥 What Sets Me Apart?  
 
--  **Innovative Thinker** – Passionate about transforming ideas into powerful digital solutions.  
--  **Full Stack Expertise** – Proficient in **React.js, Node.js, Express.js, and MongoDB** to develop robust applications.  
--  **Blockchain & Smart Contracts** – Hands-on experience with **Solidity, Web3.js, and Ethereum-based DApps**.  
--  **Problem-Solving Mindset** – Strong in **data structures, algorithms, and system optimization**.  
--  **Performance-Driven** – Committed to writing **clean, efficient, and scalable code**.  
+- **Innovative Thinker** – Passionate about transforming ideas into powerful digital solutions.  
+- **Full Stack Expertise** – Proficient in **React.js, Node.js, Express.js, and MongoDB** to develop robust applications.  
+- **Blockchain & Smart Contracts** – Hands-on experience with **Solidity, Web3.js, and Ethereum-based DApps**.  
+- **Problem-Solving Mindset** – Strong in **data structures, algorithms, and system optimization**.  
 
-## 📍 Current Project  
+## 📍 Current Projects  
 
 🚀 **Smart Delivery System with Real-Time Location Tracking**  
 ✔️ Interactive **Google Maps API** integration for seamless location selection.  
 ✔️ Secure **MongoDB storage** of delivery locations.  
 ✔️ Admin dashboard for **real-time tracking & order management**.  
 
-🚀 **Decentralized File Sharing Platform**
-✔️ Developed secure, transparent file sharing using blockchain technology.
-✔️ Designed and deployed **smart contracts** for managing file ownership and access rights.
-✔️ Integrated a user-friendly frontend for uploading, accessing, and verifying files on a decentralized network.
+🚀 **Decentralized File Sharing Platform**  
+✔️ Developed secure, transparent **file sharing** using **blockchain technology**.  
+✔️ Designed and deployed **smart contracts** for managing file ownership and access rights.  
+✔️ Integrated a **user-friendly frontend** for uploading, accessing, and verifying files on a decentralized network.  
 
 ## 🎯 Why Work With Me?  
 
 ✅ **Adaptable & Quick Learner** – Always exploring emerging tech trends like Web3 and AI.  
-✅ **Strong Technical Foundation** — Proficient in full-stack development, building REST APIs, smart contracts, and decentralized applications (DApps). 
+✅ **Strong Technical Foundation** — Proficient in full-stack development, building REST APIs, smart contracts, and decentralized applications (DApps).  
 ✅ **Collaboration & Leadership** – Experienced in working on team-driven projects with a results-oriented approach.  
 
 ## 📫 Let’s Connect!  
@@ -85,6 +84,8 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
@@ -94,9 +95,12 @@
 ## 📊 **GitHub Stats**  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi3754&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthi3754&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi3754&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
