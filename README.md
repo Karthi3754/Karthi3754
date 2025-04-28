@@ -26,16 +26,21 @@
 ✔️ Secure **MongoDB storage** of delivery locations.  
 ✔️ Admin dashboard for **real-time tracking & order management**.  
 
+🚀 **Decentralized File Sharing Platform**
+✔️ Developed secure, transparent file sharing using blockchain technology.
+✔️ Designed and deployed **smart contracts** for managing file ownership and access rights.
+✔️ Integrated a user-friendly frontend for uploading, accessing, and verifying files on a decentralized network.
+
 ## 🎯 Why Work With Me?  
 
-✅ **Adaptable & Quick Learner** – Always exploring **emerging tech trends** like Web3 and AI.  
-✅ **Strong Technical Foundation** – Well-versed in **REST APIs, cloud deployment, and security best practices**.  
+✅ **Adaptable & Quick Learner** – Always exploring emerging tech trends like Web3 and AI.  
+✅ **Strong Technical Foundation** — Proficient in full-stack development, building REST APIs, smart contracts, and decentralized applications (DApps). 
 ✅ **Collaboration & Leadership** – Experienced in working on team-driven projects with a results-oriented approach.  
 
 ## 📫 Let’s Connect!  
 
 🌐 **Portfolio:** [My Work](https://karthi3754.github.io/my1-portfolio/)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1f8o6hdkchgoMQX_gljuqDEnED7s9qZo_/view?usp=drive_link)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/15XdquD-4NUVSoX9CYusNOGhoFLU0Nvpt/view?usp=sharing)  
 📧 **Email:** karthis3754@gmail.com    
 
 ---
