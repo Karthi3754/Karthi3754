@@ -27,13 +27,13 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
+**Languages**  
 `C` `C++` `Java` `JavaScript` `Solidity`  
 **Frameworks/Libraries**  
 `React.js` `Node.js` `Express.js` `Web3.js`  
 **Databases**  
 `MongoDB` `MySQL`  
-**Others**  
+**Tools**  
 `Git` `Postman` `VS Code`
 
 <p align="left">
